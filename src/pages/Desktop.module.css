@@ -1,0 +1,614 @@
+.desktopChild,
+.searchBoxRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.desktopChild {
+  background: radial-gradient(50% 50%at 50% 50%, #e0e8f1, #bfc9d5);
+  height: 800px;
+}
+.searchBoxRectangle {
+  background-color: var(--color-gray-300);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.12);
+  height: 47px;
+}
+.refresh {
+  position: absolute;
+  top: 14px;
+  left: 1073px;
+  font-family: var(--font-quicksand);
+}
+.mdirefreshCircleIcon,
+.mdiweatherSunWirelessOutliIcon {
+  position: absolute;
+  top: 10px;
+  left: 1040px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.mdiweatherSunWirelessOutliIcon {
+  top: 8px;
+  left: 99px;
+  width: 31px;
+  height: 31px;
+}
+.weather99 {
+  position: absolute;
+  top: 9px;
+  left: 137px;
+  font-size: var(--font-size-6xl);
+}
+.highTemperature {
+  margin: 0;
+}
+.highTemperatureLowContainer {
+  position: absolute;
+  top: 121px;
+  left: 0;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 136px;
+  height: 184px;
+}
+.groupChild {
+  position: absolute;
+  top: 29.5px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background: linear-gradient(180deg, #464646, #1d2540);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+  width: 151.9px;
+  height: 275.5px;
+}
+.fluentweatherSunnyHigh20RIcon {
+  position: absolute;
+  top: 38.6px;
+  left: 12.5px;
+  width: 56.7px;
+  height: 56.7px;
+  overflow: hidden;
+}
+.groupItem {
+  position: absolute;
+  top: 103.8px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 152.9px;
+  height: 1px;
+}
+.c63fContainer {
+  top: 121.3px;
+  left: 31.7px;
+  display: inline-block;
+  width: 88.4px;
+  height: 183.7px;
+}
+.c63fContainer,
+.jan2023,
+.sunny {
+  position: absolute;
+}
+.sunny {
+  top: 54.4px;
+  left: 72.6px;
+  font-size: var(--font-size-lgi);
+  display: inline-block;
+  width: 61.2px;
+  height: 24.9px;
+}
+.jan2023 {
+  top: 0;
+  left: 21.5px;
+  font-size: var(--font-size-lg);
+  display: flex;
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  align-items: center;
+  width: 114.5px;
+  height: 23.8px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 170px;
+  width: 151.9px;
+  height: 305px;
+}
+.materialSymbolsweatherSnowyIcon {
+  position: absolute;
+  top: 49px;
+  left: 16px;
+  width: 45px;
+  height: 45px;
+  overflow: hidden;
+}
+.snowy {
+  position: absolute;
+  top: 54.4px;
+  left: 71.4px;
+  font-size: var(--font-size-lgi);
+  display: inline-block;
+  width: 64.6px;
+  height: 24.9px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 356px;
+  width: 151.9px;
+  height: 305px;
+}
+.carbonmixedRainHailIcon {
+  position: absolute;
+  top: 44px;
+  left: 16.1px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.rainy {
+  position: absolute;
+  top: 54.4px;
+  left: 76px;
+  font-size: var(--font-size-lgi);
+  display: inline-block;
+  width: 54.4px;
+  height: 24.9px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 542px;
+  width: 151.9px;
+  height: 305px;
+}
+.mdiweatherWindyIcon {
+  position: absolute;
+  top: 42px;
+  left: 16px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 728px;
+  width: 151.9px;
+  height: 305px;
+}
+.carbonmixedRainHailIcon1 {
+  position: absolute;
+  top: 40.8px;
+  left: 12.5px;
+  width: 51px;
+  height: 51px;
+  overflow: hidden;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 0;
+  left: 914px;
+  width: 151.9px;
+  height: 305px;
+}
+.highTemperatureLowTemperatuParent {
+  position: absolute;
+  top: 221px;
+  left: 154px;
+  width: 1065.9px;
+  height: 305px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.n78029 {
+  position: absolute;
+  top: 40.8px;
+  left: 2px;
+  display: inline-block;
+  width: auto;
+  height: 16px;
+}
+.materialSymbolsshareLocatioIcon {
+  position: absolute;
+  top: 3.8px;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.searchBoxRectangle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.12);
+  width: 327px;
+  height: 45.8px;
+  border: 1px solid transparent; /* Set the initial border color to transparent */
+  transition: border 0.3s; /* Add a smooth transition effect */
+  padding-left: 10px;
+}
+
+/* Apply the transparent border when the input is focused */
+.searchBoxRectangle1:focus,
+.searchBoxRectangle1:active {
+  border: 1px solid transparent;
+}
+
+.searchYourCity {
+  position: absolute;
+  top: 0;
+  left: 17.4px;
+  display: flex;
+  align-items: center;
+  width: 138.4px;
+  height: 45.8px;
+}
+.searchIcon {
+  position: absolute;
+  top: 10.9px;
+  left: 284.5px;
+  width: 28.3px;
+  height: 28.3px;
+  overflow: hidden;
+}
+.searchBox {
+  position: absolute;
+  top: 0;
+  left: 800px;
+  width: 327px;
+  height: 45.8px;
+  color: var(--color-darkslategray-100);
+}
+.agraUttarPradesh {
+  position: absolute;
+  top: 4.8px;
+  left: 40px;
+  font-size: 23px;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: auto;
+  height: 28px;
+}
+.groupChild6 {
+  position: absolute;
+  top: 64.3px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1128px;
+  height: 1px;
+}
+.n78029EParent,
+.selectDate {
+  position: absolute;
+  top: 105.2px;
+  left: 152px;
+  width: 1127px;
+  height: 64.8px;
+  color: var(--color-dimgray);
+}
+.selectDate {
+  top: 271px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 69px;
+  height: 15px;
+}
+.groupChild7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 127px;
+  height: 37.3px;
+}
+.simpleLineIconscalender {
+  position: absolute;
+  top: 7px;
+  left: 9.3px;
+  width: 23.3px;
+  height: 23.3px;
+  overflow: hidden;
+}
+
+.datep {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: relative;
+  top: 5px;
+  left: 40px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gainsboro);
+  border: 1px transparent var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 80px;
+  height: 30px;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 286.1px;
+  left: 152px;
+  width: 127px;
+  height: 37.3px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkslategray-100);
+}
+.desktop {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+
+@media only screen and (max-width: 767px) {
+  .desktopChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: radial-gradient(50% 50%at 50% 50%, #e0e8f1, #bfc9d5);
+    width: 360px;
+    height: 800px;
+  }
+  .n78029 {
+    position: absolute;
+    top: 170px;
+    left: 17px;
+    font-size: var(--font-size-smi);
+    color: var(--color-dimgray);
+  }
+  .materialSymbolsshareLocatioIcon {
+    position: absolute;
+    top: 136px;
+    left: 15px;
+    width: 28px;
+    height: 28px;
+    overflow: hidden;
+  }
+  .searchBoxRectangle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.12);
+    width: 300px;
+    height: 42px;
+  }
+  .searchYourCity {
+    position: absolute;
+    top: 0;
+    left: 16px;
+    display: flex;
+    align-items: center;
+    width: 127px;
+    height: 42px;
+  }
+  .searchIcon {
+    position: absolute;
+    top: 10px;
+    left: 261px;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+  }
+  .searchBox {
+    position: absolute;
+    top: 71px;
+    left: 30px;
+    width: 300px;
+    height: 42px;
+    font-size: var(--font-size-smi);
+    color: var(--color-darkslategray-100);
+  }
+  .searchBoxRectangle1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-gray-300);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.12);
+    width: 360px;
+    height: 47px;
+  }
+  .refresh {
+    position: absolute;
+    top: 29px;
+    left: 313px;
+    font-size: 10px;
+    font-family: var(--font-quicksand);
+  }
+  .mdirefreshCircleIcon,
+  .mdiweatherSunWirelessOutliIcon {
+    position: absolute;
+    top: 5px;
+    left: 319px;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+  }
+  .mdiweatherSunWirelessOutliIcon {
+    top: 8px;
+    left: 12px;
+    width: 31px;
+    height: 31px;
+  }
+  .weather99 {
+    position: absolute;
+    top: 9px;
+    left: 50px;
+    font-size: var(--font-size-6xl);
+  }
+  .desktopItem {
+    position: absolute;
+    top: -0.5px;
+    left: 303.5px;
+    border-right: 1px solid rgba(255, 255, 255, 0.14);
+    box-sizing: border-box;
+    width: 1px;
+    height: 48px;
+  }
+  .highTemperature {
+    margin: 0;
+  }
+  .highTemperatureLowContainer,
+  .selectDate {
+    position: absolute;
+    top: 315px;
+    left: 19px;
+    color: var(--color-black);
+  }
+  .selectDate {
+    top: 257px;
+    font-size: 11px;
+    color: var(--color-darkslategray-100);
+  }
+  .groupChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-10xs);
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-darkslategray-200);
+    box-sizing: border-box;
+    width: 109px;
+    height: 32px;
+  }
+  .simpleLineIconscalender {
+    position: absolute;
+    top: 6px;
+    left: 8px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .jan2023,
+  .rectangleParent {
+    position: absolute;
+    top: 9px;
+    left: 32px;
+  }
+  .rectangleParent {
+    top: 270px;
+    left: 19px;
+    width: 109px;
+    height: 32px;
+    font-size: var(--font-size-xs);
+    color: var(--color-darkslategray-100);
+  }
+  .groupItem {
+    position: absolute;
+    top: 26px;
+    left: 0;
+    border-radius: var(--br-6xs);
+    background: linear-gradient(180deg, #464646, #1d2540);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+    width: 134px;
+    height: 243px;
+  }
+  .fluentweatherSunnyHigh20RIcon {
+    position: absolute;
+    top: 34px;
+    left: 11px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+  }
+  .groupInner {
+    position: absolute;
+    top: 91.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 135px;
+    height: 1px;
+  }
+  .c63fContainer,
+  .jan20231,
+  .sunny {
+    position: absolute;
+    top: 107px;
+    left: 31px;
+  }
+  .jan20231,
+  .sunny {
+    top: 48px;
+    left: 66px;
+    font-size: var(--font-size-lg);
+  }
+  .jan20231 {
+    top: 0;
+    left: 19px;
+    font-size: var(--font-size-mid);
+    color: var(--color-darkslategray-100);
+    text-align: left;
+  }
+  .rectangleGroup {
+    position: absolute;
+    top: 208px;
+    left: 151px;
+    width: 134px;
+    height: 269px;
+    text-align: center;
+  }
+  .humbleiconssnow {
+    position: absolute;
+    top: 33px;
+    left: 9px;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+  }
+  .rectangleContainer {
+    position: absolute;
+    top: 208px;
+    left: 298px;
+    width: 134px;
+    height: 269px;
+    text-align: center;
+  }
+  .agraUttarPradesh {
+    position: absolute;
+    top: 137px;
+    left: 52px;
+    font-size: 22px;
+    color: var(--color-gray-200);
+  }
+  .desktopInner {
+    position: absolute;
+    top: 194.5px;
+    left: 14.5px;
+    border-top: 1px solid var(--color-gray-400);
+    box-sizing: border-box;
+    width: 331px;
+    height: 1px;
+  }
+  .desktop {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-roboto);
+  }
+}
